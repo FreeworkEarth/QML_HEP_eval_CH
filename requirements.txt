@@ -1,0 +1,9 @@
+cirq
+tensorflow==2.3.1
+-- user tensorflow-quantum
+sympy
+numpy
+seaborn
+collections
+subprocess
+matplotlib
